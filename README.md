@@ -1,1 +1,1 @@
-# coding_python
+# coding_algorithm
